@@ -14,4 +14,6 @@
 ![Election_Results](https://github.com/copo6953/Election-Analysis/blob/main/Images/Election_Results.png)
 #### Election-Audit Summary:
 * The python code I used for this election-audit can be modified for any election the Colorado Board of Elections would like to use it for, even for a presidential election. The code would need to be modified to read and calculate state statistics in combination with county statistics. This could be accomplished fairly easily by creating a list to store state names and a dictionary to store the votes tied to those states just like I did for the counties in this election. Another for loop would need to be included in the code to iterate through each state and make the necessary calculations. I believe this code would make the Colorado's Board of Elections audit process much more efficient!
+
 ![County_List](https://github.com/copo6953/Election-Analysis/blob/main/Images/County_List.png)
+![County_Loop](https://github.com/copo6953/Election-Analysis/blob/main/Images/County_Loop.png)
