@@ -11,6 +11,6 @@
 * Diana DeGette recieved 73.8% of the vote (272,892).
 * Raymon Anthony Doane recieved 3.1% of the vote (11,606).
 * Diana DeGette won the election with 272,892 votes, 73.8% of all votes cast.
-* 
+![election_analysis](https://github.com/copo6953/Election-Analysis/blob/main/analysis/election_analysis.txt)
 #### Election-Audit Summary:
 * The python code I used for this election-audit can be modified for any election the Colorado Board of Elections would like to use it for, even for a presidential election. The code would need to be modified to read and calculate state statistics in combination with county statistics. This could be accomplished fairly easily by creating a list to store state names and a dictionary to store the votes tied to those states just like I did for the counties in this election. Another for loop would need to be included in the code to iterate through each state and make the necessary calculations. I believe this code would make the Colorado's Board of Elections audit process much more efficient!
